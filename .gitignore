@@ -1,0 +1,12 @@
+.env
+api_key.txt
+api_key.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+vectorstore/
+chroma_db/
+.DS_Store
+Thumbs.db
