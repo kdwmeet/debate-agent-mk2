@@ -56,3 +56,5 @@ uv run streamlit run main.py
 * 합의 도출 및 종료: 설정된 최대 턴 수에 도달하거나 의견이 좁혀졌을 때, 중재자가 토론을 종료(FINISH)하고 흩어진 의견들을 모아 하나의 완성된 최종 회의 요약록을 출력하는지 확인합니다.
 
 ## 7. 실행 화면
+<img width="1517" height="894" alt="스크린샷 2026-04-09 124303" src="https://github.com/user-attachments/assets/5ea8f017-5131-46a4-9ca2-253151694881" />
+
